@@ -1,6 +1,10 @@
 body {
   font-family: 'Josefin Sans';
-  background-color: white;
+  background-color: black;
+  background-image: url('../src/assets/images/BG.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    
 }
 
 * {
